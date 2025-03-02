@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+    background-color:#4BDD2780;          
+}             
+.logo {
+    text-align:center ;
+    margin: 120px;
+    ;
+}
+h1{
+    text-align: center;
+    size: 10px;
+}
+.reviews-item{
+    display: flex;
+    justify-content: center;
+    
+}
+
+nav {
+    display: flex;
+    gap: 65px;
+    justify-content: center;
+}
+.salary {
+    size: 20px;
+}
+.bobr {
+    font-size:25px
+}
+.menu-info {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+p{
+    text-align: center;
+}
+.menu-text{
+    text-size : 100px;
+}
+.info-div{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    
+}
+header{
+    background-image: url(https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/3535/production/_92012631_istock_72721127_large-1.jpg);
+    display: flex;
+    background-size: 100%;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+
+}
+
